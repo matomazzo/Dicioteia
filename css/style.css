@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Rye&display=swap');
+
+.tamanho_icon{
+	width:12% !important;
+	min-width: 130px;
+}
+
+.titulo{
+	text-align: center;
+	font-family: 'Rampart One', cursive;
+	color: white;
+	font-size: 90px;
+}
+
+.cabecalho{
+	background: linear-gradient(#33ccff, #6e58fe, #8843cd);
+}
+
+.img_slide{
+	width:300px;
+}
+
+.dicionário{
+	
+}
+
+.palavras_dic .card{
+	margin: 10px;
+}
+
+.about{
+	text-align: justify;
+		background-color: #8843cd;
+}
+
+.letter{
+	background-color: #8843cd;
+	font-family: 'Rye', cursive;
+	font-size: 18pt;
+}
+
+#palavra_aleatoria li{
+	list-style:none;
+	display: inline-block;
+}
+
+.change_letter{
+	border:1px solid black;
+	text-align:center;
+	font-family: 'Amatic SC', cursive;
+	font-size: 22pt;
+}
